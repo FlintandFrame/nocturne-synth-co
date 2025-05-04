@@ -97,7 +97,7 @@ navigation {
 
 .hero-background-wrapper {
 	position: relative;
-	background-image: url("../images/hero-background.png");
+	background-image: url("../images/hero-background.PNG");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
